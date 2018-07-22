@@ -4,4 +4,4 @@ But the DS4Windows patch cannot be used directly as the calibration is not set u
 
 For other issues, refer to the original website at https://github.com/rajkosto/DS4Windows.
 
-To know how to connect the xbox with the computer via Breek gadgets, please refer to the two pictures in the main directory.
+To know how to connect the xbox with the computer via Breek gadgets, please refer to the two pictures in the main directory. The mode of the Breed plugin should be turned into PS4.
