@@ -1,29 +1,9 @@
-# DS4Windows
+This is a little tool for those who have xbox controller with a breek plugin and want to play the games with motion control. As breek plugin can make the xbox controller a PS4 controller, the motion data from a PS4 controller can be mapped to a UDP port in order to provide the motion data to the emulator, like cemu.
 
-Like those other ds4tools, but sexier.
+But the DS4Windows patch cannot be used as the calibration is not set for this circumstance, I changed some calibration data to make it possible.
 
-DS4Windows is a portable program that allows you to get the best DualShock 4 experience on your PC. By emulating a Xbox 360 controller, many more games are accessible.
+For other issues, refer to the original website at https://github.com/rajkosto/DS4Windows.
 
-You can find the latest and older versions [here](https://github.com/Ryochan7/DS4Windows/releases).
+And this tool is not mine, I just shared this idea. Thanks to him, who created this gadget.
 
-This project is a fork of the work of Jays2Kings. You can find the old project
-website at [ds4windows.com](http://ds4windows.com).
-
-## Requirements
-
-- [Microsoft .NET 4.5.2 or higher (needed to unzip the driver and for macros to work properly)](http://www.microsoft.com/en-us/download/details.aspx?id=42642)
-- SCP Virtual Bus Driver (Downloaded & Installed with DS4Windows)
-- Microsoft 360 Driver (link inside DS4Windows, already installed on Windows 7 SP1 and higher or if you've used a 360 controller before)
-- Sony DualShock 4 (This should be obvious)
-- Micro USB cable
-- (Optional)Bluetooth 2.1+, via adapter or built in pc [(My recommendation)](http://www.amazon.com/gp/product/B004LNXO28/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) (Toshiba's bluetooth & Bluetooth adapters using CSR currently does not work)
-
-## Pull Requests
-
-Pull requests for DS4Windows are welcome. Before making a pull request, please
-test your changes to ensure that the changes made do not negatively affect
-the performance of other parts of the application. Some consideration will
-be made during code review to try to tweak the changes in order to improve
-application performance. However, there is a chance that a pull request will be
-rejected if no reasonable solution can be found to incorporate code changes.
-
+To know how this tool works, please refer to the two pictures in the main directory.
